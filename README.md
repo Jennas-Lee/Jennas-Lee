@@ -1,4 +1,8 @@
+# About Jennas Lee
 ### Hi there 👋
+I'm interested in AI, Big Data, and Cloud Computing.  
+I'm an ordinary high school student, but I am interested in computers.
+I'm in Seoul, Korea. 😆
 
 <!--
 **Jennas-Lee/Jennas-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jennas-Lee)](https://github.com/Jennas-Lee)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jennas-Lee)](https://github.com/Jennas-Lee)
