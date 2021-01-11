@@ -62,9 +62,9 @@ I'm in Seoul, Korea.
 ### Databases
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/PostgreSQL-336791?logo=PostgreSQL&logoColor=white"></span>
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white"></span>
 
-## ML/DL
+### ML/DL
 <span><img src="https://img.shields.io/badge/scikitlearn-F7931E?logo=scikit-learn&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Pandas-150458?logo=Pandas&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/NumPy-013243?logo=NumPy&logoColor=white"></span>
