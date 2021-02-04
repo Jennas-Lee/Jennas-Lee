@@ -8,9 +8,10 @@ I'm in Seoul, Korea.
 ## Stats
 
 ![Contribution](https://github-readme-stats.vercel.app/api?username=Jennas-Lee&cache_seconds=1800&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Jennas-Lee&cache_seconds=1800&theme=algolia&layout=compact&hide=html&count_private=true&show_icons=true)
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=JennasLee&layout=compact&theme=algolia)
+
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Jennas-Lee&cache_seconds=1800&theme=algolia&layout=compact&hide=html&count_private=true&show_icons=true)
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=bi0416&)](https://solved.ac/profile/bi0416)
 
