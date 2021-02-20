@@ -1,9 +1,9 @@
 # About Jennas Lee
 
 ## Hi there 👋
-I'm interested in AI, Big Data, and Cloud Computing.  
-I'm an ordinary high school student, but I am interested in computers.  
-I'm in Seoul, Korea.
+🌱 I'm interested in AI, Big Data, and Cloud Computing.  
+🔭 I'm an ordinary high school student, but I am interested in computers.  
+😄 I'm in Seoul, Korea.
 
 ## Stats
 
@@ -11,7 +11,7 @@ I'm in Seoul, Korea.
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=JennasLee&layout=compact&theme=algolia)
 
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Jennas-Lee&cache_seconds=1800&theme=algolia&layout=compact&hide=html&count_private=true&show_icons=true)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Jennas-Lee&theme=algolia&layout=compact&hide=&count_private=true&show_icons=true)
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=bi0416&)](https://solved.ac/profile/bi0416)
 
