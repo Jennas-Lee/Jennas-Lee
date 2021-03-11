@@ -4,7 +4,7 @@
 🌱 I'm interested in AI, Big Data, and Cloud Computing.  
 🔭 I'm an ordinary high school student, but I am interested in computers.  
 😄 I'm in Seoul, Korea.  
-🔭 I'm CTO of [HYOM](https://github.com/ampcompany). I'm senior Infrastructure Engineer and junior AI Engineer.
+🔭 I'm CTO of [HYOM](https://github.com/ampcompany).
 
 ## Stats
 
