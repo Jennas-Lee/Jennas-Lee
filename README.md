@@ -18,11 +18,21 @@
 
 ## Major Tech Stack
 
+### Languages
+
 <span><img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"></span>
+
+### Frameworks
+
+<span><img src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white"></span>
+
+### Hosting/IaaS
+
 <span><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=Amazon-AWS&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white"></span>
 
 ## Social
 
