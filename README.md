@@ -21,7 +21,7 @@
 ### Languages
 
 <span><img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"></span>
 
 ### Frameworks
