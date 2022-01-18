@@ -1,10 +1,7 @@
 # About Jennas Lee
 
 ## Hi there 👋
-🌱 I'm interested in AI, Big Data, and Cloud Computing.  
-🔭 I'm an ordinary high school student, but I am interested in computers.  
-😄 I'm in Seoul, Korea.  
-🔭 I'm CTO of [HYOM](https://github.com/ampcompany).
+🌱 I'm interested in AI, Big Data, and Cloud Computing.
 
 ## Stats
 
@@ -21,7 +18,7 @@
 ### Languages
 
 <span><img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=whit"></span>
 <span><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"></span>
 
 ### Frameworks
