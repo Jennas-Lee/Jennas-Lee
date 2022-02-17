@@ -18,11 +18,12 @@
 ### Languages
 
 <span><img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=whit"></span>
+<span><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"></span>
 
 ### Frameworks
 
+<span><img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white"></span>
 
