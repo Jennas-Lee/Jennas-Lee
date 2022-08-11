@@ -31,6 +31,7 @@
 
 <span><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=Amazon-AWS&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white"></span>
 
 ## Social
 
