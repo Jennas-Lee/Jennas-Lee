@@ -35,6 +35,7 @@
 
 ## Social
 
+<span><a href="https://www.linkedin.com/in/seung-jun-lee-890ba422a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white"></a></span>
 <span><a href="https://www.instagram.com/specialist_sj/"><img src="https://img.shields.io/badge/specialist_sj-E4405F?logo=Instagram&logoColor=white"></a></span>
 <span><a href="https://blog.naver.com/bi0416"><img src="https://img.shields.io/badge/Naver Blog-03C75A?logo=Naver&logoColor=white"></a></span>
 
